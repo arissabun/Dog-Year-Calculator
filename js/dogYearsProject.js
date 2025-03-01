@@ -1,5 +1,4 @@
 function convertAge() {
-    alert("Function is running!"); 
     let myName = document.getElementById("name").value;
     let myAge = parseInt(document.getElementById("age").value, 10);
 
